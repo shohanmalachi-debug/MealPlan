@@ -1,0 +1,76 @@
+{
+  "id": "kottu-roti-chicken",
+  "name": "Chicken Kottu Roti",
+  "mealType": [
+    "dinner"
+  ],
+  "cuisine": "sri-lankan",
+  "protein": "chicken",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "roti / godamba flatbread",
+      "quantity": 6,
+      "unit": "unit",
+      "category": "pantry"
+    },
+    {
+      "name": "chicken breast",
+      "quantity": 400,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "cabbage",
+      "quantity": 200,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "carrot",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "onion",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "egg",
+      "quantity": 2,
+      "unit": "unit",
+      "category": "protein"
+    },
+    {
+      "name": "curry powder",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "pantry"
+    }
+  ],
+  "steps": [
+    "Slice roti into strips.",
+    "Stir-fry chicken with onion and curry powder until cooked.",
+    "Add cabbage and carrot, stir-fry until just tender.",
+    "Push to one side, scramble egg in, then toss everything with roti strips and soy sauce, chopping and mixing constantly."
+  ],
+  "activeMinutes": 25,
+  "totalMinutes": 30,
+  "spiceLevel": 2,
+  "kaiAdjustment": "Cook a small plain batch of chopped roti, chicken and veg for Kai before adding curry powder and chili to the rest.",
+  "tags": [
+    "constant-stir",
+    "stir-fry",
+    "quick"
+  ],
+  "imageQuery": "sri lankan chicken kottu roti"
+}

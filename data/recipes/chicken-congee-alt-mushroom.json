@@ -1,0 +1,56 @@
+{
+  "id": "chicken-congee-alt-mushroom",
+  "name": "Chicken and Mushroom Congee",
+  "mealType": [
+    "breakfast"
+  ],
+  "cuisine": "chinese",
+  "protein": "chicken",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "quantity": 150,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "chicken thigh, boneless",
+      "quantity": 250,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "shiitake mushroom",
+      "quantity": 100,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "herb-spice"
+    },
+    {
+      "name": "spring onion",
+      "quantity": 2,
+      "unit": "unit",
+      "category": "vegetable"
+    }
+  ],
+  "steps": [
+    "Simmer rice in plenty of water with ginger and sliced mushroom for 35-40 min.",
+    "Add diced chicken in the last 10 min to poach through.",
+    "Top with spring onion to serve."
+  ],
+  "activeMinutes": 10,
+  "totalMinutes": 45,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — naturally soft and mild for Kai.",
+  "tags": [
+    "simmer",
+    "low-active"
+  ],
+  "imageQuery": "chicken mushroom congee"
+}

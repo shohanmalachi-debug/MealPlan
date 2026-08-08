@@ -1,0 +1,64 @@
+{
+  "id": "thai-style-fried-rice-breakfast",
+  "name": "Thai-Style Egg and Vegetable Fried Rice",
+  "mealType": [
+    "breakfast",
+    "lunch"
+  ],
+  "cuisine": "thai",
+  "protein": "egg",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "cooked rice (day-old)",
+      "quantity": 450,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "egg",
+      "quantity": 4,
+      "unit": "unit",
+      "category": "protein"
+    },
+    {
+      "name": "carrot",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "frozen peas",
+      "quantity": 80,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "spring onion",
+      "quantity": 2,
+      "unit": "unit",
+      "category": "vegetable"
+    }
+  ],
+  "steps": [
+    "Scramble eggs, remove.",
+    "Stir-fry rice with carrot and peas.",
+    "Return egg, season with soy sauce, top with spring onion."
+  ],
+  "activeMinutes": 15,
+  "totalMinutes": 15,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed.",
+  "tags": [
+    "stir-fry",
+    "quick",
+    "vegetarian"
+  ],
+  "imageQuery": "thai style egg vegetable fried rice"
+}

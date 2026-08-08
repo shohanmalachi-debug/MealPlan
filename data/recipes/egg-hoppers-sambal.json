@@ -1,0 +1,63 @@
+{
+  "id": "egg-hoppers-sambal",
+  "name": "Egg Hoppers with Coconut Sambal",
+  "mealType": [
+    "breakfast",
+    "lunch"
+  ],
+  "cuisine": "sri-lankan",
+  "protein": "egg",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "hopper batter (rice flour, coconut milk)",
+      "quantity": 400,
+      "unit": "ml",
+      "category": "pantry"
+    },
+    {
+      "name": "egg",
+      "quantity": 3,
+      "unit": "unit",
+      "category": "protein"
+    },
+    {
+      "name": "desiccated coconut",
+      "quantity": 100,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "red onion",
+      "quantity": 0.5,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "lime",
+      "quantity": 0.5,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "chili flakes",
+      "quantity": 1,
+      "unit": "tsp",
+      "category": "pantry"
+    }
+  ],
+  "steps": [
+    "Heat hopper pan, swirl in batter to form a bowl shape.",
+    "Crack an egg into the centre, cover and cook until white sets.",
+    "Mix coconut, onion, lime and chili flakes for sambal.",
+    "Serve hoppers with sambal on the side."
+  ],
+  "activeMinutes": 20,
+  "totalMinutes": 25,
+  "spiceLevel": 2,
+  "kaiAdjustment": "Serve Kai's hopper with plain coconut (no chili flakes) instead of the spiced sambal.",
+  "tags": [
+    "quick"
+  ],
+  "imageQuery": "sri lankan egg hoppers coconut sambal"
+}

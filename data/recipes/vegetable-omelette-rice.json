@@ -1,0 +1,57 @@
+{
+  "id": "vegetable-omelette-rice",
+  "name": "Vegetable Omelette with Rice",
+  "mealType": [
+    "breakfast"
+  ],
+  "cuisine": "chinese",
+  "protein": "egg",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "egg",
+      "quantity": 6,
+      "unit": "unit",
+      "category": "protein"
+    },
+    {
+      "name": "carrot",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "spring onion",
+      "quantity": 2,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "jasmine rice",
+      "quantity": 250,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "pantry"
+    }
+  ],
+  "steps": [
+    "Cook rice.",
+    "Whisk eggs with finely diced carrot and spring onion.",
+    "Cook omelette in a non-stick pan until just set.",
+    "Serve sliced over rice with a dash of soy sauce."
+  ],
+  "activeMinutes": 15,
+  "totalMinutes": 20,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed.",
+  "tags": [
+    "quick",
+    "vegetarian"
+  ],
+  "imageQuery": "vegetable omelette rice breakfast"
+}

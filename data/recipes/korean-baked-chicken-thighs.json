@@ -1,0 +1,68 @@
+{
+  "id": "korean-baked-chicken-thighs",
+  "name": "Korean-Style Baked Chicken Thighs",
+  "mealType": [
+    "dinner"
+  ],
+  "cuisine": "korean",
+  "protein": "chicken",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "chicken thigh, bone-in",
+      "quantity": 800,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "gochujang",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "honey",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "garlic",
+      "quantity": 3,
+      "unit": "clove",
+      "category": "herb-spice"
+    },
+    {
+      "name": "jasmine rice",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "broccoli",
+      "quantity": 200,
+      "unit": "g",
+      "category": "vegetable"
+    }
+  ],
+  "steps": [
+    "Mix gochujang, soy sauce, honey and garlic, coat chicken thighs.",
+    "Bake at 200C for 35-40 min until sticky and cooked through.",
+    "Cook rice and steam broccoli while chicken bakes."
+  ],
+  "activeMinutes": 10,
+  "totalMinutes": 45,
+  "spiceLevel": 2,
+  "kaiAdjustment": "Set aside plain chicken thighs for Kai before glazing the rest with gochujang.",
+  "tags": [
+    "oven",
+    "low-active"
+  ],
+  "imageQuery": "korean baked chicken thighs gochujang"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "vegetable-fried-noodles-lunch",
+  "name": "Vegetable and Egg Fried Noodles",
+  "mealType": [
+    "lunch"
+  ],
+  "cuisine": "chinese",
+  "protein": "egg",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "egg",
+      "quantity": 3,
+      "unit": "unit",
+      "category": "protein"
+    },
+    {
+      "name": "cabbage",
+      "quantity": 150,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "carrot",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "bean sprouts",
+      "quantity": 100,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "sesame oil",
+      "quantity": 1,
+      "unit": "tsp",
+      "category": "pantry"
+    }
+  ],
+  "steps": [
+    "Cook noodles, drain.",
+    "Scramble egg, remove.",
+    "Stir-fry vegetables until just tender, add noodles and egg back in.",
+    "Season with soy sauce and a drizzle of sesame oil."
+  ],
+  "activeMinutes": 18,
+  "totalMinutes": 20,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — mild vegetarian dish.",
+  "tags": [
+    "stir-fry",
+    "quick",
+    "vegetarian"
+  ],
+  "imageQuery": "vegetable egg fried noodles"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "dhal-curry-with-egg",
+  "name": "Dhal Curry (Parippu) with Boiled Egg",
+  "mealType": [
+    "lunch",
+    "dinner"
+  ],
+  "cuisine": "sri-lankan",
+  "protein": "lentil",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "coconut milk",
+      "quantity": 200,
+      "unit": "ml",
+      "category": "pantry"
+    },
+    {
+      "name": "onion",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "garlic",
+      "quantity": 2,
+      "unit": "clove",
+      "category": "herb-spice"
+    },
+    {
+      "name": "turmeric",
+      "quantity": 1,
+      "unit": "tsp",
+      "category": "pantry"
+    },
+    {
+      "name": "egg",
+      "quantity": 3,
+      "unit": "unit",
+      "category": "protein"
+    },
+    {
+      "name": "basmati rice",
+      "quantity": 250,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "mustard seeds",
+      "quantity": 1,
+      "unit": "tsp",
+      "category": "pantry"
+    }
+  ],
+  "steps": [
+    "Boil eggs, peel and set aside.",
+    "Simmer lentils with turmeric and water until soft, about 15 min.",
+    "Temper mustard seeds, onion and garlic in a separate pan, stir into dhal with coconut milk.",
+    "Serve over rice with halved boiled eggs."
+  ],
+  "activeMinutes": 15,
+  "totalMinutes": 25,
+  "spiceLevel": 1,
+  "kaiAdjustment": "Kai's serving needs no adjustment — this dish is mild by default.",
+  "tags": [
+    "curry",
+    "one-pot",
+    "vegetarian",
+    "batch-friendly"
+  ],
+  "imageQuery": "sri lankan dhal curry egg rice",
+  "batchCookFriendly": true
+}

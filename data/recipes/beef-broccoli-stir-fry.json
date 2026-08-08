@@ -1,0 +1,70 @@
+{
+  "id": "beef-broccoli-stir-fry",
+  "name": "Beef and Broccoli Stir-Fry",
+  "mealType": [
+    "dinner"
+  ],
+  "cuisine": "chinese",
+  "protein": "beef",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "quantity": 500,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "broccoli",
+      "quantity": 300,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "garlic",
+      "quantity": 3,
+      "unit": "clove",
+      "category": "herb-spice"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "oyster sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "cornflour",
+      "quantity": 1,
+      "unit": "tsp",
+      "category": "pantry"
+    },
+    {
+      "name": "jasmine rice",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    }
+  ],
+  "steps": [
+    "Cook rice.",
+    "Blanch broccoli briefly, set aside.",
+    "Sear beef strips over high heat in batches, set aside.",
+    "Stir-fry garlic, return beef and broccoli, add sauces and cornflour slurry, toss until glossy."
+  ],
+  "activeMinutes": 25,
+  "totalMinutes": 25,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — mild dish, chop beef finely for Kai.",
+  "tags": [
+    "constant-stir",
+    "stir-fry",
+    "quick"
+  ],
+  "imageQuery": "beef broccoli stir fry"
+}

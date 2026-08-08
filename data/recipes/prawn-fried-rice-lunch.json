@@ -1,0 +1,64 @@
+{
+  "id": "prawn-fried-rice-lunch",
+  "name": "Prawn Fried Rice",
+  "mealType": [
+    "lunch"
+  ],
+  "cuisine": "chinese",
+  "protein": "prawn",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "prawns, peeled",
+      "quantity": 350,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "cooked rice (day-old)",
+      "quantity": 500,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "egg",
+      "quantity": 2,
+      "unit": "unit",
+      "category": "protein"
+    },
+    {
+      "name": "frozen peas",
+      "quantity": 100,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "spring onion",
+      "quantity": 2,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    }
+  ],
+  "steps": [
+    "Cook prawns quickly until pink, set aside.",
+    "Scramble egg, remove.",
+    "Stir-fry rice and peas, return egg and prawns, season with soy sauce and spring onion."
+  ],
+  "activeMinutes": 18,
+  "totalMinutes": 18,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — mild and easy for Kai.",
+  "tags": [
+    "stir-fry",
+    "quick",
+    "batch-friendly"
+  ],
+  "imageQuery": "prawn fried rice",
+  "batchCookFriendly": true
+}

@@ -1,0 +1,70 @@
+{
+  "id": "prawn-noodle-salad",
+  "name": "Prawn Noodle Salad",
+  "mealType": [
+    "lunch"
+  ],
+  "cuisine": "vietnamese",
+  "protein": "prawn",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "prawns, peeled",
+      "quantity": 400,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "rice vermicelli noodles",
+      "quantity": 250,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "cucumber",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "carrot",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "lettuce",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "fish sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "lime",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    }
+  ],
+  "steps": [
+    "Cook noodles and cool under water.",
+    "Pan-fry or steam prawns until pink, about 4 min.",
+    "Toss noodles with shredded vegetables, top with prawns.",
+    "Dress with fish sauce and lime juice."
+  ],
+  "activeMinutes": 20,
+  "totalMinutes": 20,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — serve dressing on the side for Kai.",
+  "tags": [
+    "salad",
+    "quick",
+    "no-cook-mostly"
+  ],
+  "imageQuery": "vietnamese prawn noodle salad"
+}

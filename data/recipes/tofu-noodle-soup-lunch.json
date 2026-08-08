@@ -1,0 +1,57 @@
+{
+  "id": "tofu-noodle-soup-lunch",
+  "name": "Miso Tofu Noodle Soup",
+  "mealType": [
+    "lunch"
+  ],
+  "cuisine": "japanese",
+  "protein": "tofu",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "quantity": 300,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "miso paste",
+      "quantity": 3,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "egg noodles",
+      "quantity": 250,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "spring onion",
+      "quantity": 2,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "bok choy",
+      "quantity": 150,
+      "unit": "g",
+      "category": "vegetable"
+    }
+  ],
+  "steps": [
+    "Bring water/stock to a simmer, whisk in miso paste.",
+    "Add noodles and bok choy, simmer 5 min.",
+    "Add cubed tofu, warm through, top with spring onion."
+  ],
+  "activeMinutes": 15,
+  "totalMinutes": 20,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — mild broth suits Kai.",
+  "tags": [
+    "simmer",
+    "quick",
+    "vegetarian"
+  ],
+  "imageQuery": "miso tofu noodle soup"
+}

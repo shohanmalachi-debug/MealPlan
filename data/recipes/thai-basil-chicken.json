@@ -1,0 +1,82 @@
+{
+  "id": "thai-basil-chicken",
+  "name": "Thai Basil Chicken (Pad Kra Pao)",
+  "mealType": [
+    "dinner"
+  ],
+  "cuisine": "thai",
+  "protein": "chicken",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "chicken mince",
+      "quantity": 500,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "thai basil",
+      "quantity": 1,
+      "unit": "cup",
+      "category": "vegetable"
+    },
+    {
+      "name": "garlic",
+      "quantity": 4,
+      "unit": "clove",
+      "category": "herb-spice"
+    },
+    {
+      "name": "long red chili",
+      "quantity": 2,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "oyster sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "fish sauce",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "jasmine rice",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "egg",
+      "quantity": 3,
+      "unit": "unit",
+      "category": "protein"
+    }
+  ],
+  "steps": [
+    "Cook rice.",
+    "Fry egg sunny-side up per person, set aside.",
+    "Stir-fry garlic and chili, add mince and cook through.",
+    "Add sauces and basil, toss until wilted. Serve over rice topped with fried egg."
+  ],
+  "activeMinutes": 25,
+  "totalMinutes": 25,
+  "spiceLevel": 3,
+  "kaiAdjustment": "Cook Kai's mince portion before adding chili, then season the rest of the pan for the adults.",
+  "tags": [
+    "constant-stir",
+    "stir-fry",
+    "quick"
+  ],
+  "imageQuery": "thai basil chicken pad kra pao"
+}

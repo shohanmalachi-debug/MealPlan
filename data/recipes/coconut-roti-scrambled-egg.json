@@ -1,0 +1,51 @@
+{
+  "id": "coconut-roti-scrambled-egg",
+  "name": "Coconut Roti with Scrambled Egg",
+  "mealType": [
+    "breakfast"
+  ],
+  "cuisine": "sri-lankan",
+  "protein": "egg",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "coconut roti",
+      "quantity": 6,
+      "unit": "unit",
+      "category": "pantry"
+    },
+    {
+      "name": "egg",
+      "quantity": 6,
+      "unit": "unit",
+      "category": "protein"
+    },
+    {
+      "name": "red onion",
+      "quantity": 0.5,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "curry leaves",
+      "quantity": 1,
+      "unit": "pinch",
+      "category": "herb-spice"
+    }
+  ],
+  "steps": [
+    "Warm roti in a dry pan.",
+    "Saute onion and curry leaves briefly.",
+    "Scramble eggs through the onion mixture until just set.",
+    "Serve with warm roti."
+  ],
+  "activeMinutes": 15,
+  "totalMinutes": 15,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed.",
+  "tags": [
+    "quick",
+    "vegetarian"
+  ],
+  "imageQuery": "sri lankan coconut roti scrambled egg"
+}

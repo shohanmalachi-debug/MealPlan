@@ -1,0 +1,70 @@
+{
+  "id": "chicken-fried-rice-lunch",
+  "name": "Chicken Fried Rice",
+  "mealType": [
+    "lunch"
+  ],
+  "cuisine": "chinese",
+  "protein": "chicken",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "quantity": 350,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "cooked rice (day-old)",
+      "quantity": 500,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "egg",
+      "quantity": 2,
+      "unit": "unit",
+      "category": "protein"
+    },
+    {
+      "name": "frozen peas",
+      "quantity": 100,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "carrot",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "spring onion",
+      "quantity": 2,
+      "unit": "unit",
+      "category": "vegetable"
+    }
+  ],
+  "steps": [
+    "Dice and cook chicken until browned.",
+    "Scramble egg, remove.",
+    "Stir-fry rice, peas and carrot, return chicken and egg, season with soy sauce."
+  ],
+  "activeMinutes": 20,
+  "totalMinutes": 20,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — mild and easy for Kai.",
+  "tags": [
+    "stir-fry",
+    "quick",
+    "batch-friendly"
+  ],
+  "imageQuery": "chicken fried rice",
+  "batchCookFriendly": true
+}

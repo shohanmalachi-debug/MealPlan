@@ -1,0 +1,76 @@
+{
+  "id": "korean-bulgogi-beef",
+  "name": "Korean Bulgogi Beef with Rice",
+  "mealType": [
+    "dinner"
+  ],
+  "cuisine": "korean",
+  "protein": "beef",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "beef sirloin, thin sliced",
+      "quantity": 500,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 3,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "brown sugar",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "garlic",
+      "quantity": 3,
+      "unit": "clove",
+      "category": "herb-spice"
+    },
+    {
+      "name": "sesame oil",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "jasmine rice",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "carrot",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "spring onion",
+      "quantity": 2,
+      "unit": "unit",
+      "category": "vegetable"
+    }
+  ],
+  "steps": [
+    "Marinate beef with soy sauce, sugar, garlic and sesame oil for at least 10 min.",
+    "Cook rice.",
+    "Stir-fry beef and carrot over high heat in batches until caramelised.",
+    "Serve over rice topped with spring onion."
+  ],
+  "activeMinutes": 20,
+  "totalMinutes": 30,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — mild, chop finely for Kai.",
+  "tags": [
+    "constant-stir",
+    "stir-fry",
+    "quick"
+  ],
+  "imageQuery": "korean bulgogi beef rice"
+}

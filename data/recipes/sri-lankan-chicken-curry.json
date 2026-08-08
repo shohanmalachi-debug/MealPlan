@@ -1,0 +1,83 @@
+{
+  "id": "sri-lankan-chicken-curry",
+  "name": "Sri Lankan Chicken Curry with Rice",
+  "mealType": [
+    "dinner"
+  ],
+  "cuisine": "sri-lankan",
+  "protein": "chicken",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "chicken thigh, boneless",
+      "quantity": 600,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "coconut milk",
+      "quantity": 400,
+      "unit": "ml",
+      "category": "pantry"
+    },
+    {
+      "name": "onion",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "garlic",
+      "quantity": 3,
+      "unit": "clove",
+      "category": "herb-spice"
+    },
+    {
+      "name": "ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "herb-spice"
+    },
+    {
+      "name": "curry powder",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "tomato",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "basmati rice",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "curry leaves",
+      "quantity": 1,
+      "unit": "pinch",
+      "category": "herb-spice"
+    }
+  ],
+  "steps": [
+    "Cook rice.",
+    "Saute onion, garlic, ginger and curry leaves until fragrant.",
+    "Add chicken and curry powder, brown lightly.",
+    "Add tomato and coconut milk, simmer 25 min until chicken is cooked through."
+  ],
+  "activeMinutes": 15,
+  "totalMinutes": 40,
+  "spiceLevel": 2,
+  "kaiAdjustment": "Set aside a plain portion of chicken and coconut sauce for Kai before adding chili/extra curry powder to the rest.",
+  "tags": [
+    "curry",
+    "one-pot",
+    "batch-friendly"
+  ],
+  "imageQuery": "sri lankan chicken curry rice",
+  "batchCookFriendly": true
+}

@@ -1,0 +1,69 @@
+{
+  "id": "malaysian-chicken-laksa",
+  "name": "Malaysian Chicken Curry Laksa",
+  "mealType": [
+    "dinner"
+  ],
+  "cuisine": "malaysian",
+  "protein": "chicken",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "chicken thigh, boneless",
+      "quantity": 500,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "laksa paste",
+      "quantity": 4,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "coconut milk",
+      "quantity": 400,
+      "unit": "ml",
+      "category": "pantry"
+    },
+    {
+      "name": "rice noodles",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "bean sprouts",
+      "quantity": 100,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "fish sauce",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "lime",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    }
+  ],
+  "steps": [
+    "Fry laksa paste until fragrant.",
+    "Add coconut milk and stock/water, simmer with chicken until cooked, about 15 min.",
+    "Soak rice noodles until soft.",
+    "Assemble bowls: noodles, broth, chicken, bean sprouts, lime wedge."
+  ],
+  "activeMinutes": 20,
+  "totalMinutes": 40,
+  "spiceLevel": 2,
+  "kaiAdjustment": "Reserve a portion of chicken and coconut broth for Kai before adding the full amount of laksa paste.",
+  "tags": [
+    "curry",
+    "one-pot"
+  ],
+  "imageQuery": "malaysian chicken curry laksa"
+}

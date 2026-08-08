@@ -1,0 +1,69 @@
+{
+  "id": "korean-bibimbap-beef-lunch",
+  "name": "Beef Bibimbap Bowl",
+  "mealType": [
+    "lunch"
+  ],
+  "cuisine": "korean",
+  "protein": "beef",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "beef mince",
+      "quantity": 400,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "jasmine rice",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "carrot",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "spinach",
+      "quantity": 100,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "egg",
+      "quantity": 3,
+      "unit": "unit",
+      "category": "protein"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "sesame oil",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "pantry"
+    }
+  ],
+  "steps": [
+    "Cook rice.",
+    "Brown beef mince with soy sauce and a little sesame oil.",
+    "Quickly saute carrot and spinach separately.",
+    "Fry an egg per person, assemble bowls with rice, beef, vegetables and egg on top."
+  ],
+  "activeMinutes": 22,
+  "totalMinutes": 25,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — mild, chop beef finely for Kai.",
+  "tags": [
+    "stir-fry",
+    "quick"
+  ],
+  "imageQuery": "korean beef bibimbap bowl"
+}

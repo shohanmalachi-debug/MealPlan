@@ -1,0 +1,77 @@
+{
+  "id": "indian-butter-chicken",
+  "name": "Butter Chicken with Rice",
+  "mealType": [
+    "dinner"
+  ],
+  "cuisine": "indian",
+  "protein": "chicken",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "chicken thigh, boneless",
+      "quantity": 600,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "tomato paste",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "cream",
+      "quantity": 150,
+      "unit": "ml",
+      "category": "dairy"
+    },
+    {
+      "name": "butter",
+      "quantity": 30,
+      "unit": "g",
+      "category": "dairy"
+    },
+    {
+      "name": "garam masala",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "garlic",
+      "quantity": 3,
+      "unit": "clove",
+      "category": "herb-spice"
+    },
+    {
+      "name": "ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "herb-spice"
+    },
+    {
+      "name": "basmati rice",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    }
+  ],
+  "steps": [
+    "Cook rice.",
+    "Saute garlic, ginger and garam masala in butter.",
+    "Add chicken, brown lightly, then add tomato paste and simmer 15 min.",
+    "Stir through cream, simmer 5 more minutes until chicken is cooked through."
+  ],
+  "activeMinutes": 20,
+  "totalMinutes": 35,
+  "spiceLevel": 1,
+  "kaiAdjustment": "Reserve a mild portion of chicken and sauce for Kai before adding extra garam masala/chili to the rest.",
+  "tags": [
+    "curry",
+    "one-pot",
+    "batch-friendly"
+  ],
+  "imageQuery": "butter chicken curry rice",
+  "batchCookFriendly": true
+}

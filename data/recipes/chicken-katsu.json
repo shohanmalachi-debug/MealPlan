@@ -1,0 +1,69 @@
+{
+  "id": "chicken-katsu",
+  "name": "Chicken Katsu with Rice",
+  "mealType": [
+    "dinner"
+  ],
+  "cuisine": "japanese",
+  "protein": "chicken",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "quantity": 500,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "quantity": 150,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "egg",
+      "quantity": 2,
+      "unit": "unit",
+      "category": "protein"
+    },
+    {
+      "name": "cornflour",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "jasmine rice",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "cabbage",
+      "quantity": 150,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "tonkatsu sauce",
+      "quantity": 3,
+      "unit": "tbsp",
+      "category": "pantry"
+    }
+  ],
+  "steps": [
+    "Cook rice and shred cabbage.",
+    "Crumb chicken breast: cornflour, then egg, then panko.",
+    "Pan-fry until golden and cooked through, about 5 min per side.",
+    "Slice and serve over rice with cabbage and tonkatsu sauce."
+  ],
+  "activeMinutes": 30,
+  "totalMinutes": 35,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — mild, slice into small pieces for Kai.",
+  "tags": [
+    "deep-fry",
+    "constant-stir"
+  ],
+  "imageQuery": "chicken katsu rice"
+}

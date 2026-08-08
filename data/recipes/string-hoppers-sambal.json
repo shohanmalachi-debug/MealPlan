@@ -1,0 +1,68 @@
+{
+  "id": "string-hoppers-sambal",
+  "name": "String Hoppers with Coconut Sambal and Egg Curry",
+  "mealType": [
+    "breakfast"
+  ],
+  "cuisine": "sri-lankan",
+  "protein": "egg",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "string hoppers (idiyappam)",
+      "quantity": 12,
+      "unit": "unit",
+      "category": "pantry"
+    },
+    {
+      "name": "egg",
+      "quantity": 4,
+      "unit": "unit",
+      "category": "protein"
+    },
+    {
+      "name": "coconut milk",
+      "quantity": 200,
+      "unit": "ml",
+      "category": "pantry"
+    },
+    {
+      "name": "desiccated coconut",
+      "quantity": 80,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "red onion",
+      "quantity": 0.5,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "chili flakes",
+      "quantity": 1,
+      "unit": "tsp",
+      "category": "pantry"
+    },
+    {
+      "name": "curry powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "category": "pantry"
+    }
+  ],
+  "steps": [
+    "Steam or warm string hoppers.",
+    "Boil eggs, halve, simmer briefly in coconut milk and curry powder for a light egg curry.",
+    "Mix coconut, onion and chili flakes for sambal.",
+    "Serve string hoppers with sambal and egg curry on the side."
+  ],
+  "activeMinutes": 20,
+  "totalMinutes": 25,
+  "spiceLevel": 2,
+  "kaiAdjustment": "Serve Kai's string hoppers with plain coconut and egg curry made before adding chili flakes.",
+  "tags": [
+    "quick"
+  ],
+  "imageQuery": "sri lankan string hoppers sambal egg curry"
+}

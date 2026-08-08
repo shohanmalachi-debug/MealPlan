@@ -1,0 +1,77 @@
+{
+  "id": "tofu-vegetable-stir-fry",
+  "name": "Tofu and Vegetable Stir-Fry",
+  "mealType": [
+    "dinner"
+  ],
+  "cuisine": "chinese",
+  "protein": "tofu",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "quantity": 400,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "broccoli",
+      "quantity": 150,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "carrot",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "snow peas",
+      "quantity": 100,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "oyster sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "garlic",
+      "quantity": 2,
+      "unit": "clove",
+      "category": "herb-spice"
+    },
+    {
+      "name": "jasmine rice",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    }
+  ],
+  "steps": [
+    "Cook rice.",
+    "Pan-fry cubed tofu until golden on all sides, set aside.",
+    "Stir-fry garlic and vegetables until just tender.",
+    "Return tofu, add sauces and toss to combine."
+  ],
+  "activeMinutes": 20,
+  "totalMinutes": 25,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — mild vegetarian dish.",
+  "tags": [
+    "constant-stir",
+    "stir-fry",
+    "quick",
+    "vegetarian"
+  ],
+  "imageQuery": "tofu vegetable stir fry"
+}

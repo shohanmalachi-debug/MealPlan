@@ -1,0 +1,62 @@
+{
+  "id": "chicken-tikka-tray-bake",
+  "name": "Chicken Tikka Tray Bake",
+  "mealType": [
+    "dinner"
+  ],
+  "cuisine": "indian",
+  "protein": "chicken",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "chicken thigh, boneless",
+      "quantity": 600,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "yoghurt",
+      "quantity": 150,
+      "unit": "g",
+      "category": "dairy"
+    },
+    {
+      "name": "tikka spice mix",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "capsicum",
+      "quantity": 2,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "red onion",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "basmati rice",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    }
+  ],
+  "steps": [
+    "Marinate chicken in yoghurt and tikka spice, ideally 20+ min.",
+    "Spread chicken, capsicum and onion on a tray, roast at 200C for 25-30 min.",
+    "Cook rice while the tray bakes."
+  ],
+  "activeMinutes": 12,
+  "totalMinutes": 40,
+  "spiceLevel": 1,
+  "kaiAdjustment": "Set aside plain chicken pieces before marinating the rest with tikka spice.",
+  "tags": [
+    "oven",
+    "low-active"
+  ],
+  "imageQuery": "chicken tikka tray bake"
+}

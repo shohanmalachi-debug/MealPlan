@@ -1,0 +1,64 @@
+{
+  "id": "chickpea-lentil-rice-bowl-lunch",
+  "name": "Spiced Lentil and Rice Bowl",
+  "mealType": [
+    "lunch"
+  ],
+  "cuisine": "indian",
+  "protein": "lentil",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "quantity": 250,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "basmati rice",
+      "quantity": 250,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "cumin seeds",
+      "quantity": 1,
+      "unit": "tsp",
+      "category": "pantry"
+    },
+    {
+      "name": "turmeric",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "category": "pantry"
+    },
+    {
+      "name": "spinach",
+      "quantity": 100,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "tomato",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    }
+  ],
+  "steps": [
+    "Cook rice.",
+    "Simmer lentils with turmeric until soft, about 15 min.",
+    "Temper cumin seeds in a little oil, stir into lentils with chopped tomato and spinach.",
+    "Serve lentils over rice."
+  ],
+  "activeMinutes": 15,
+  "totalMinutes": 25,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — mild vegetarian dish.",
+  "tags": [
+    "one-pot",
+    "quick",
+    "vegetarian"
+  ],
+  "imageQuery": "spiced lentil rice bowl"
+}

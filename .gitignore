@@ -1,0 +1,8 @@
+node_modules/
+.next/
+out/
+.env.local
+data/db/
+data/image-cache.json
+*.log
+.DS_Store

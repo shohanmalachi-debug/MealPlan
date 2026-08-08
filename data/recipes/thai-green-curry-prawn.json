@@ -1,0 +1,75 @@
+{
+  "id": "thai-green-curry-prawn",
+  "name": "Thai Green Curry with Prawns",
+  "mealType": [
+    "dinner"
+  ],
+  "cuisine": "thai",
+  "protein": "prawn",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "prawns, peeled",
+      "quantity": 500,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "green curry paste",
+      "quantity": 3,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "coconut milk",
+      "quantity": 400,
+      "unit": "ml",
+      "category": "pantry"
+    },
+    {
+      "name": "eggplant",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "green beans",
+      "quantity": 150,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "fish sauce",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "jasmine rice",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "thai basil",
+      "quantity": 0.5,
+      "unit": "cup",
+      "category": "vegetable"
+    }
+  ],
+  "steps": [
+    "Cook rice.",
+    "Fry curry paste in a splash of coconut milk until fragrant.",
+    "Add remaining coconut milk, eggplant and beans, simmer 10 min.",
+    "Add prawns and fish sauce, cook 5 min until prawns are pink. Finish with basil."
+  ],
+  "activeMinutes": 20,
+  "totalMinutes": 35,
+  "spiceLevel": 2,
+  "kaiAdjustment": "Reserve a small portion of prawns and vegetables in plain coconut milk before stirring in the curry paste.",
+  "tags": [
+    "curry",
+    "one-pot"
+  ],
+  "imageQuery": "thai green curry prawns"
+}

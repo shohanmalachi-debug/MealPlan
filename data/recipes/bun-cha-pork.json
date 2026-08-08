@@ -1,0 +1,75 @@
+{
+  "id": "bun-cha-pork",
+  "name": "Bun Cha (Vermicelli with Grilled Pork)",
+  "mealType": [
+    "dinner"
+  ],
+  "cuisine": "vietnamese",
+  "protein": "pork",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "pork mince",
+      "quantity": 500,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "rice vermicelli noodles",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "fish sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "lime",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "carrot",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "cucumber",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "lettuce",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "garlic",
+      "quantity": 2,
+      "unit": "clove",
+      "category": "herb-spice"
+    }
+  ],
+  "steps": [
+    "Form pork mince into small patties, marinate with fish sauce and garlic.",
+    "Soak noodles, pickle sliced carrot briefly in lime juice.",
+    "Pan-fry or grill patties until browned and cooked through.",
+    "Serve noodles topped with patties, herbs, lettuce and cucumber, with dipping sauce."
+  ],
+  "activeMinutes": 25,
+  "totalMinutes": 35,
+  "spiceLevel": 1,
+  "kaiAdjustment": "Kai's patties can be served without chili in the dipping sauce.",
+  "tags": [
+    "grill",
+    "constant-stir"
+  ],
+  "imageQuery": "vietnamese bun cha grilled pork vermicelli"
+}

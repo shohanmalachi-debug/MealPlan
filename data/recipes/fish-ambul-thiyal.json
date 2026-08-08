@@ -1,0 +1,68 @@
+{
+  "id": "fish-ambul-thiyal",
+  "name": "Fish Ambul Thiyal (Sour Fish Curry)",
+  "mealType": [
+    "dinner"
+  ],
+  "cuisine": "sri-lankan",
+  "protein": "fish",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "firm white fish",
+      "quantity": 600,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "goraka / tamarind paste",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "black pepper",
+      "quantity": 1,
+      "unit": "tsp",
+      "category": "pantry"
+    },
+    {
+      "name": "garlic",
+      "quantity": 3,
+      "unit": "clove",
+      "category": "herb-spice"
+    },
+    {
+      "name": "ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "herb-spice"
+    },
+    {
+      "name": "curry leaves",
+      "quantity": 1,
+      "unit": "pinch",
+      "category": "herb-spice"
+    },
+    {
+      "name": "basmati rice",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    }
+  ],
+  "steps": [
+    "Marinate fish cubes with tamarind, pepper, garlic and ginger.",
+    "Cook rice.",
+    "Simmer fish gently with curry leaves in a covered pan for 30 min until sauce reduces and clings to the fish."
+  ],
+  "activeMinutes": 15,
+  "totalMinutes": 45,
+  "spiceLevel": 1,
+  "kaiAdjustment": "Remove a portion of fish before the final pepper reduction and keep it mild for Kai.",
+  "tags": [
+    "curry",
+    "simmer"
+  ],
+  "imageQuery": "sri lankan sour fish curry ambul thiyal"
+}

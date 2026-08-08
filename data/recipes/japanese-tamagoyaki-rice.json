@@ -1,0 +1,57 @@
+{
+  "id": "japanese-tamagoyaki-rice",
+  "name": "Tamagoyaki (Rolled Omelette) with Rice",
+  "mealType": [
+    "breakfast"
+  ],
+  "cuisine": "japanese",
+  "protein": "egg",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "egg",
+      "quantity": 6,
+      "unit": "unit",
+      "category": "protein"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "rice wine",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "jasmine rice",
+      "quantity": 250,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "spring onion",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    }
+  ],
+  "steps": [
+    "Cook rice.",
+    "Whisk eggs with soy sauce and rice wine.",
+    "Cook in thin layers in a rectangular pan, rolling each layer as it sets.",
+    "Slice and serve with rice."
+  ],
+  "activeMinutes": 15,
+  "totalMinutes": 15,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed.",
+  "tags": [
+    "quick",
+    "vegetarian"
+  ],
+  "imageQuery": "tamagoyaki rolled omelette rice"
+}

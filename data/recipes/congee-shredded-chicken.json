@@ -1,0 +1,56 @@
+{
+  "id": "congee-shredded-chicken",
+  "name": "Chicken Congee",
+  "mealType": [
+    "breakfast"
+  ],
+  "cuisine": "chinese",
+  "protein": "chicken",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "quantity": 150,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "chicken breast",
+      "quantity": 250,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "herb-spice"
+    },
+    {
+      "name": "spring onion",
+      "quantity": 2,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "pantry"
+    }
+  ],
+  "steps": [
+    "Simmer rice in plenty of water with ginger for 35-40 min, stirring occasionally, until porridge-like.",
+    "Poach chicken separately, shred once cooked.",
+    "Stir chicken through congee, top with spring onion and a dash of soy sauce."
+  ],
+  "activeMinutes": 10,
+  "totalMinutes": 45,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — naturally soft and mild for Kai.",
+  "tags": [
+    "simmer",
+    "low-active"
+  ],
+  "imageQuery": "chicken congee breakfast"
+}

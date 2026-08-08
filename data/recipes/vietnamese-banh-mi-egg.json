@@ -1,0 +1,62 @@
+{
+  "id": "vietnamese-banh-mi-egg",
+  "name": "Vietnamese-Style Egg Baguette (Banh Mi)",
+  "mealType": [
+    "breakfast"
+  ],
+  "cuisine": "vietnamese",
+  "protein": "egg",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "baguette",
+      "quantity": 3,
+      "unit": "unit",
+      "category": "pantry"
+    },
+    {
+      "name": "egg",
+      "quantity": 6,
+      "unit": "unit",
+      "category": "protein"
+    },
+    {
+      "name": "carrot",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "cucumber",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 1,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "dairy"
+    }
+  ],
+  "steps": [
+    "Quick-pickle shredded carrot briefly.",
+    "Fry eggs to your liking.",
+    "Split baguettes, spread mayonnaise, fill with egg, carrot and cucumber, drizzle with soy sauce."
+  ],
+  "activeMinutes": 15,
+  "totalMinutes": 15,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — serve Kai's portion open-faced without chili.",
+  "tags": [
+    "quick",
+    "no-cook-mostly"
+  ],
+  "imageQuery": "vietnamese banh mi egg baguette"
+}

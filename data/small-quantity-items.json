@@ -1,0 +1,16 @@
+{
+  "soy sauce": { "maxMl": 60 },
+  "light soy sauce": { "maxMl": 60 },
+  "dark soy sauce": { "maxMl": 45 },
+  "fish sauce": { "maxMl": 30 },
+  "oyster sauce": { "maxMl": 45 },
+  "tomato paste": { "maxMl": 30 },
+  "sesame oil": { "maxMl": 15 },
+  "rice vinegar": { "maxMl": 30 },
+  "rice wine": { "maxMl": 30 },
+  "chili paste": { "maxMl": 30 },
+  "sambal oelek": { "maxMl": 30 },
+  "curry paste": { "maxMl": 45 },
+  "honey": { "maxMl": 30 },
+  "vanilla extract": { "maxMl": 5 }
+}

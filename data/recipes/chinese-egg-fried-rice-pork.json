@@ -1,0 +1,78 @@
+{
+  "id": "chinese-egg-fried-rice-pork",
+  "name": "Egg Fried Rice with Char Siu-Style Pork",
+  "mealType": [
+    "lunch",
+    "dinner"
+  ],
+  "cuisine": "chinese",
+  "protein": "pork",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "pork fillet",
+      "quantity": 400,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "hoisin sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "cooked rice (day-old)",
+      "quantity": 500,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "egg",
+      "quantity": 3,
+      "unit": "unit",
+      "category": "protein"
+    },
+    {
+      "name": "spring onion",
+      "quantity": 3,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "frozen peas",
+      "quantity": 100,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "carrot",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    }
+  ],
+  "steps": [
+    "Marinate pork in hoisin and soy, pan-roast until cooked through, then slice.",
+    "Scramble egg in a hot wok, remove.",
+    "Stir-fry rice, peas and carrot, add egg back in with spring onion and a splash of soy sauce.",
+    "Top with sliced pork."
+  ],
+  "activeMinutes": 25,
+  "totalMinutes": 30,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — mild dish, just chop pork smaller for Kai.",
+  "tags": [
+    "stir-fry",
+    "quick",
+    "batch-friendly"
+  ],
+  "imageQuery": "chinese egg fried rice char siu pork",
+  "batchCookFriendly": true
+}

@@ -1,0 +1,81 @@
+{
+  "id": "vietnamese-chicken-pho",
+  "name": "Vietnamese Chicken Pho",
+  "mealType": [
+    "dinner"
+  ],
+  "cuisine": "vietnamese",
+  "protein": "chicken",
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "chicken thigh, bone-in",
+      "quantity": 600,
+      "unit": "g",
+      "category": "protein"
+    },
+    {
+      "name": "rice noodles",
+      "quantity": 300,
+      "unit": "g",
+      "category": "pantry"
+    },
+    {
+      "name": "ginger",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "herb-spice"
+    },
+    {
+      "name": "onion",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "vegetable"
+    },
+    {
+      "name": "star anise",
+      "quantity": 2,
+      "unit": "unit",
+      "category": "herb-spice"
+    },
+    {
+      "name": "cinnamon stick",
+      "quantity": 1,
+      "unit": "unit",
+      "category": "pantry"
+    },
+    {
+      "name": "fish sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "category": "pantry"
+    },
+    {
+      "name": "bean sprouts",
+      "quantity": 100,
+      "unit": "g",
+      "category": "vegetable"
+    },
+    {
+      "name": "spring onion",
+      "quantity": 3,
+      "unit": "unit",
+      "category": "vegetable"
+    }
+  ],
+  "steps": [
+    "Char ginger and onion, simmer with chicken, star anise and cinnamon for 35 min to build broth.",
+    "Remove chicken, shred meat once cool enough to handle.",
+    "Soak rice noodles until soft.",
+    "Season broth with fish sauce, assemble bowls with noodles, chicken, sprouts and spring onion."
+  ],
+  "activeMinutes": 15,
+  "totalMinutes": 45,
+  "spiceLevel": 0,
+  "kaiAdjustment": "No adjustment needed — serve broth slightly cooled for Kai and skip any chili/lime added at the table.",
+  "tags": [
+    "simmer",
+    "low-active"
+  ],
+  "imageQuery": "vietnamese chicken pho"
+}

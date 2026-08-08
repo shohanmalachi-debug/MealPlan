@@ -22,6 +22,7 @@ export default function MealCard({
 }) {
   const [imageUrl, setImageUrl] = useState<string | null>(null);
   const [swapOpen, setSwapOpen] = useState(false);
+  const [recipeOpen, setRecipeOpen] = useState(false);
   const difficulty = getDifficulty(recipe);
 
   useEffect(() => {
@@ -78,13 +79,44 @@ export default function MealCard({
           )}
           <div className="mt-3 flex items-center justify-between">
             <RatingStars initialRating={slot.rating} onRate={rate} />
-            <button
-              className="text-sm font-medium text-brand-600 hover:text-brand-700"
-              onClick={() => setSwapOpen(true)}
-            >
-              Swap
-            </button>
+            <div className="flex items-center gap-4">
+              <button
+                className="text-sm font-medium text-brand-600 hover:text-brand-700"
+                onClick={() => setRecipeOpen((v) => !v)}
+              >
+                {recipeOpen ? "Hide recipe" : "View recipe"}
+              </button>
+              <button
+                className="text-sm font-medium text-brand-600 hover:text-brand-700"
+                onClick={() => setSwapOpen(true)}
+              >
+                Swap
+              </button>
+            </div>
           </div>
+
+          {recipeOpen && (
+            <div className="mt-4 border-t border-stone-100 pt-4">
+              <h4 className="text-sm font-semibold text-stone-700">
+                Ingredients (serves {recipe.servings})
+              </h4>
+              <ul className="mt-1 space-y-0.5 text-sm text-stone-600">
+                {recipe.ingredients.map((ing) => (
+                  <li key={ing.name}>
+                    {ing.quantity}
+                    {ing.unit === "unit" ? "" : ` ${ing.unit}`} {ing.name}
+                  </li>
+                ))}
+              </ul>
+
+              <h4 className="mt-4 text-sm font-semibold text-stone-700">Steps</h4>
+              <ol className="mt-1 list-decimal space-y-1 pl-5 text-sm text-stone-600">
+                {recipe.steps.map((step, i) => (
+                  <li key={i}>{step}</li>
+                ))}
+              </ol>
+            </div>
+          )}
         </div>
       </div>
       {swapOpen && (

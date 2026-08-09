@@ -1,0 +1,12 @@
+services:
+  mealplan:
+    build: .
+    container_name: mealplan
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - UNSPLASH_ACCESS_KEY=${UNSPLASH_ACCESS_KEY:-}
+      - PEXELS_API_KEY=${PEXELS_API_KEY:-}
+    volumes:
+      - ./data:/app/data
